@@ -41,4 +41,4 @@ while True:
         else:
             updateStateController(controller["id"],False)
             print("no tenemos ping del controlador: ",controller["ip"])
-    time.sleep(180)
+    time.sleep(360)
